@@ -4,10 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Arnab1056.Arnab1056&"  />
-</div>
-
 ###
 
 <h1 align="center">Hi!<br>Welcome</h1>
